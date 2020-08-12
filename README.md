@@ -1,2 +1,2 @@
-# belajar
+# belajar.py
 00
